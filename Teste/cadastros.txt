@@ -1,0 +1,115 @@
+
+        Nome: antonio
+        Sobrenome: aires
+        CPF: 09515102588
+        Data de Nascimento: 2003-09-10
+        Sexo: masculino
+        Celular: 75998140270
+        Email: ac9774549@gmail.com
+        RG: 38384940303
+        Peso: 90
+        Altura: 180
+        Nome do Responsável: N/A
+        Sobrenome do Responsável: N/A
+        CPF do Responsável: N/A
+        Data de Nascimento do Responsável: N/A
+        Email do Responsável: N/A
+        Celular do Responsável: N/A
+        -------------------------
+
+    
+        Nome: antonio
+        Sobrenome: aires
+        CPF: 09515102588
+        Data de Nascimento: 2003-09-10
+        Sexo: masculino
+        Celular: 75998140270
+        Email: ac9774549@gmail.com
+        RG: 38384940303
+        Peso: 90
+        Altura: 180
+        Nome do Responsável: N/A
+        Sobrenome do Responsável: N/A
+        CPF do Responsável: N/A
+        Data de Nascimento do Responsável: N/A
+        Email do Responsável: N/A
+        Celular do Responsável: N/A
+        -------------------------
+
+    
+        Nome: antonio
+        Sobrenome: aires
+        CPF: 09515102588
+        Data de Nascimento: 2003-09-10
+        Sexo: masculino
+        Celular: 75998140270
+        Email: ac9774549@gmail.com
+        RG: 38384940303
+        Peso: 90
+        Altura: 180
+        Nome do Responsável: N/A
+        Sobrenome do Responsável: N/A
+        CPF do Responsável: N/A
+        Data de Nascimento do Responsável: N/A
+        Email do Responsável: N/A
+        Celular do Responsável: N/A
+        -------------------------
+
+    
+        Nome: alfredo
+        Sobrenome: aires
+        CPF: 09515102588
+        Data de Nascimento: 2003-09-10
+        Sexo: masculino
+        Celular: 75998140270
+        Email: ac9774549@gmail.com
+        RG: 38384940303
+        Peso: 90
+        Altura: 180
+        Nome do Responsável: ezequias
+        Sobrenome do Responsável: campos
+        CPF do Responsável: 5584615616
+        Data de Nascimento do Responsável: 2003-11-12
+        Email do Responsável: jdansdkjandas@gmail.com
+        Celular do Responsável: 515152225
+        -------------------------
+
+    
+        Nome: jose
+        Sobrenome: santos
+        CPF: 123456
+        Data de Nascimento: 1988-03-10
+        Sexo: masculino
+        Celular: 123654789
+        Email: jsdandjks@gmail.com
+        RG: 566511
+        Peso: 70
+        Altura: 175
+        Nome do Responsável: N/A
+        Sobrenome do Responsável: N/A
+        CPF do Responsável: N/A
+        Data de Nascimento do Responsável: N/A
+        Email do Responsável: N/A
+        Celular do Responsável: N/A
+        -------------------------
+
+    
+        Nome: lucio
+        Sobrenome: god
+        CPF: 25649
+        Data de Nascimento: 2019-07-10
+        Sexo: masculino
+        Celular: 494984
+        Email: 46456415@gmail.com
+        RG: 568461
+        Peso: 75
+        Altura: 175
+        Nome do Responsável: N/A
+        Sobrenome do Responsável: N/A
+        CPF do Responsável: N/A
+        Data de Nascimento do Responsável: N/A
+        Email do Responsável: N/A
+        Celular do Responsável: N/A
+        -------------------------
+
+    
